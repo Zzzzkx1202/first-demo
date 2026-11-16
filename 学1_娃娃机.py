@@ -93,5 +93,5 @@ print(rabbit.status())
 # TODO ③ 写 grab：先看币够不够；够就扣币、次数加 1；次数是 3 的倍数时必中一只
 #        接着写在 class ClawMachine 里面，缩进 4 格
 
-
+print("=== 游戏结束，欢迎再来抓娃娃！===")
 # TODO ④ 造兔兔机和小熊机，投币、抓娃娃，最后打印两台的 status()
